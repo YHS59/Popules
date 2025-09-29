@@ -15,13 +15,3 @@ import FeedGrid from './components/FeedGrid.vue';
     </main>
   </div>
 </template>
-
-<style>
-/* You may need to add this for clean typography */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-
-body {
-    font-family: 'Inter', sans-serif;
-}
-</style>
-
